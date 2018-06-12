@@ -1,0 +1,19 @@
+{
+  "name": "webpack-mock-simple",
+  "version": "1.0.3",
+  "description": "a webpack plugin for mocking data",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "keywords": [
+    "mockjs",
+    "webpack"
+  ],
+  "author": "leonhardt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mockjs-lite": "^0.3.2"
+  }
+}
